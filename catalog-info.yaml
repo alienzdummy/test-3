@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-3
+  description: Test-3
+  annotations:
+    github.com/project-slug: 
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:guest
