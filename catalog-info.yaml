@@ -2,9 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-3
-  description: Test-3
+  description: Test 3
   annotations:
-    github.com/project-slug: 
+    github.com/project-slug: alienzdummy/test-3
 spec:
   type: service
   lifecycle: experimental
